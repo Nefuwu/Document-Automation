@@ -35,7 +35,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the repository**
  ```sh
- git clone <your-repository-url>
+ git clone https://github.com/Nefuwu/Document-Automation.git
  cd main
 ```
    
