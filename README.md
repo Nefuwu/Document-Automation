@@ -34,9 +34,10 @@ This is a capstone project built using the Django web framework. It features a u
 Follow these steps to set up and run the project locally:
 
 1. **Clone the repository**
-   ```bash
-   git clone <your-repository-url>
-   cd main
+ ```sh
+ git clone <your-repository-url>
+ cd main
+```
    
 2. Create a virtual environment by running the following command:
 ```sh
