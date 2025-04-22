@@ -1,5 +1,5 @@
 # Document-Automation
-This is a capstone project built using the Django web framework. It features a user authentication system, custom filters, and a template-based frontend. The app is structured around the `accounts` module and is configured to use a SQLite database for development.
+Welcome to the Enhanced Document Automation System! This powerful web-based tool allows you to upload scanned documents such as invoices, automatically extract key data using OCR and NLP technologies, and seamlessly integrate with any of your businesses like a financial software for efficient management of invoice records.
 
 
 ## Features
